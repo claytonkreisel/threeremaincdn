@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'Futura';
+	src: url('FuturaBT-Medium.eot');
+	src: url('FuturaBT-Medium.eot?#iefix') format('embedded-opentype'),
+		url('FuturaBT-Medium.woff') format('woff'),
+		url('FuturaBT-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Futura';
+	src: url('FuturaBT-Light-l.eot');
+	src: url('FuturaBT-Light-l.eot?#iefix') format('embedded-opentype'),
+		url('FuturaBT-Light-l.woff') format('woff'),
+		url('FuturaBT-Light-l.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Futura';
+	src: url('Futura-CondensedLight.eot');
+	src: url('Futura-CondensedLight.eot?#iefix') format('embedded-opentype'),
+		url('Futura-CondensedLight.woff') format('woff'),
+		url('Futura-CondensedLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('Montserrat-Regular.eot');
+	src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Montserrat-Regular.woff2') format('woff2'),
+		url('Montserrat-Regular.woff') format('woff'),
+		url('Montserrat-Regular.ttf') format('truetype'),
+		url('Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
